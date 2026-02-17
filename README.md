@@ -4,7 +4,7 @@ A complete end-to-end Machine Learning project that predicts whether a person is
 This project covers the full ML lifecycle: EDA → Preprocessing → Model Building → Evaluation → Deployment using Streamlit.
 
 ## 🚀 Live Demo
-👉 https://your-streamlit-app-link.streamlit.app
+👉 https://diabetes-prediction-using-logistic-regression-adfwix9xzkmhsyds.streamlit.app
 
 ---
 
