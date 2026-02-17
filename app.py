@@ -4,7 +4,7 @@ import joblib
 import base64
 
 # Load trained model and scaler
-model = joblib.load("logistic_model.pkl")
+model = joblib.load("logistic_regression_model.pkl")
 scaler = joblib.load("scaler.pkl")
 
 #style with css
@@ -70,3 +70,4 @@ if st.button("Predict"):
         st.error(f"⚠️ Diabetic (Probability: {probability:.2f})")
     else:
         st.success(f"✅ Not Diabetic (Probability: {probability:.2f})")
+
