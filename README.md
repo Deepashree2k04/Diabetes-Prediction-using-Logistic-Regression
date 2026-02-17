@@ -3,6 +3,9 @@
 A complete end-to-end Machine Learning project that predicts whether a person is diabetic based on medical attributes.  
 This project covers the full ML lifecycle: EDA → Preprocessing → Model Building → Evaluation → Deployment using Streamlit.
 
+## 🚀 Live Demo
+👉 https://your-streamlit-app-link.streamlit.app
+
 ---
 
 ## Project Overview
